@@ -1,6 +1,6 @@
 # StonkR
 
-Find out website here: [ stonkr.vercel.app ](stonkr.vercel.app)
+Find out website here: [ stonkr.vercel.app ](https://stonkr.vercel.app/)
 
 ## The problem StonkR solves
 
